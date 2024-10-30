@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+.wrap-content-cryptanil {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+}
+
+.wrap-content-cryptanil-400px{
+    /*width: 400px;*/
+    width: 341px;
+    display: inline-block;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+.wrap-content-cryptanil-400px h2{
+    font-size: 30px;
+}
+.wrap-content-info{
+    padding-left: 50px;
+}
+.wrap-content-cryptanil-400px img{
+    width: 100%;
+}
+
+.wrap-content-cryptanil-info{
+    /*padding-left: 50px;*/
+}
+
+.wrap-content-cryptanil textarea{
+    width: 400px !important;
+}
+.icon{
+    position: absolute;
+    left: 51px;
+    margin-top: 5px;
+}
+.phone-icon{
+    color: #f37228;
+}
+.mail-icon{
+    color: #f37228;
+}
+
+.phone-icon-2{
+    color: #2372cc;
+}
+
+.mail-icon-2{
+    color: #2372cc;
+}
+
+.wrap-content-info{
+    font-size: 16px;
+}
+
+.wrap-content-info p{
+    font-size: 16px!important;
+}
+
+.wrap-content-info a, .wrap-content-info a:hover, .wrap-content-info a:active, .wrap-content-info a:focus{
+    text-decoration: none;
+    color: #444;
+}
+
+@media only screen and (max-width: 1600px) {
+    .wrap-content-cryptanil{
+        right: 245px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .wrap-content-cryptanil{
+        right: 170px;
+    }
+
+}
+
+@media only screen and (max-width: 1300px) {
+    .wrap-content-cryptanil{
+        right: 110px;
+    }
+
+}
+@media only screen and (max-width: 1200px) {
+    .wrap-content-cryptanil{
+        right: 50px;
+    }
+
+}
